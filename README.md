@@ -32,4 +32,4 @@ Draw Landmarks: The detected hand landmarks serve as pointers, allowing users to
 
 - Render Drawings: Use the stored coordinates to draw points on the canvas and video frames, creating the visual output of your air-drawn masterpiece.
 
-<img src="https://github.com/iamramzan/P1-Air-Canvas-using-OpenCV/blob/main/Air%20Canvas.png" width="800" height="400">
+<img src="https://github.com/iamramzan/P1-Air-Canvas-using-OpenCV/blob/main/Air%20Canvas.png">
