@@ -1,3 +1,5 @@
+# P1: Air Canvas using OpenCV
+
 # imports libraries
 import cv2
 import numpy as np
