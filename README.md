@@ -1,16 +1,16 @@
-# P1-Air-Canvas-using-OpenCV
+## P1-Air-Canvas-using-OpenCV
 
 Ever wished to capture your imagination by simply waving your finger in the air?
 In this post, we introduce Air Canvas—a virtual drawing tool that lets you sketch in the air using only your hand gestures. By leveraging the powerful capabilities of OpenCV and MediaPipe, this computer vision project tracks hand landmarks to create a seamless drawing experience.
 
-🔧 Tools and Libraries Used
+## 🔧 Tools and Libraries Used
 
 - Python 3: For scripting and project development.
 - NumPy: To manage and manipulate data arrays efficiently.
 - OpenCV: This open-source library is a cornerstone for real-time computer vision. It facilitates video frame capture and processing seamlessly.
 - MediaPipe: Google’s framework for multimodal machine learning pipelines. In this project, MediaPipe powers real-time hand tracking and landmark detection.
 
-💡 How It Works
+## 💡 How It Works
 
 - Capture Video: OpenCV captures a live video feed from the webcam.
 
@@ -18,7 +18,7 @@ In this post, we introduce Air Canvas—a virtual drawing tool that lets you ske
 
 Draw Landmarks: The detected hand landmarks serve as pointers, allowing users to draw virtually by moving their hands in the air.
 
-🧩 Algorithm Overview
+## 🧩 Algorithm Overview
 
 - Frame Capture: Begin reading video frames from the webcam. Convert these frames to HSV color space, as it simplifies color detection.
 
