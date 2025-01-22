@@ -1,4 +1,4 @@
-## P1-Air-Canvas-using-OpenCV
+## Air-Canvas-using-OpenCV
 
 Ever wished to capture your imagination by simply waving your finger in the air?
 In this post, we introduce Air Canvas—a virtual drawing tool that lets you sketch in the air using only your hand gestures. By leveraging the powerful capabilities of OpenCV and MediaPipe, this computer vision project tracks hand landmarks to create a seamless drawing experience.
