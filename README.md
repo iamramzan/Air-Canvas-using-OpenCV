@@ -31,5 +31,3 @@ Draw Landmarks: The detected hand landmarks serve as pointers, allowing users to
 - Track Finger Movements: Detect the forefinger coordinates and continuously store them in an array across successive frames.
 
 - Render Drawings: Use the stored coordinates to draw points on the canvas and video frames, creating the visual output of your air-drawn masterpiece.
-
-[![P1: Air Canvas using OpenCV](https://img.youtube.com/vi/8DDkfa2tvro/0.jpg)](https://youtu.be/8DDkfa2tvro)
